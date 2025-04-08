@@ -1,0 +1,28 @@
+# OS файли
+.DS_Store
+Thumbs.db
+
+# Python файли
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite файли
+*.sqlite3
+*.db
+
+# Docker файли
+*.log
+*.env
+
+# Node.js файли
+node_modules/
+build/
+dist/
+
+# IDE файли
+.vscode/
+.idea/
+
+# Інше
+.env
